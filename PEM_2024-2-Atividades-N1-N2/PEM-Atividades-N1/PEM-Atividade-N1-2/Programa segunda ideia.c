@@ -1,5 +1,5 @@
 // Criador do Código: Diego Lopes Sakata 
-// Esse é o código certo com todas as automações e contigências de erros.
+// Segundo código para a tarefa, porém contém alguns erros, como a entrada das notas que precisa entrar uma por vez.
 
 #include <stdio.h>
 
